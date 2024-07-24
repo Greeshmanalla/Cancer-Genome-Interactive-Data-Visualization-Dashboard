@@ -1,2 +1,3 @@
 # Cancer-Genome-Interactive-Data-Visualization-Dashboard
 This is my **Masters** project dissertation at **Newcastle University**. This project's data is taken from public repository TCGA which includes breast cancer gene mutation data and patient clinical data.
+The project's objective is to design and implement a visualization tool that will en-hance the analysis and comprehension of data within the scope of cancer care. This tool aims to facilitate the interpretation of complex genomic information, thereby aiding healthcare professionals in making informed decisions for treatment strategies. 
